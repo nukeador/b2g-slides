@@ -185,8 +185,8 @@ video {
 }
 
 a {
-	color: #FFFFFF;
-	text-decoration: none;
+	color: #898989;
+	text-decoration: underline;
 }
 
 small {
